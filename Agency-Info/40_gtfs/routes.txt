@@ -1,0 +1,5 @@
+agency_id,route_id,route_short_name,route_long_name,route_type,route_desc
+40,AMTK,,Amtrak,2,Amtrak service supplements Sounder North weekdays.  Please note that Amtrak does not stop in Mukilteo and accepts only passes valid on Sounder service
+40,SNDR_EV,,Sounder Everett - Seattle,2,Sounder North runs between Everett Station and King Street Station in Seattle weekdays with occasional special service on weekends serving special events
+40,SNDR_TL,,Sounder Lakewood - Seattle,2,Sounder South runs between Pierce County and King Street Station in Seattle weekdays with occasional special service on weekends serving special events
+40,TLINK,,Tacoma Link light rail,0,Tacoma Link provides service through downtown Tacoma 7 days a week

@@ -1,0 +1,51 @@
+agency_id,route_id,route_short_name,route_long_name,route_type
+29,101,101,Mariner P&R - Aurora Village,3
+29,105,105,Mariner P&R - Bothell,3
+29,106,106,Mariner P&R - Bothell,3
+29,111,111,Brier - Mountlake Terrace,3
+29,112,112,Mountlake Terrace - Ash Way P&R,3
+29,113,113,Mukilteo - Lynnwood TC,3
+29,115,115,Mariner P&R - Aurora Village,3
+29,116,116,Silver Firs - Edmonds,3
+29,119,119,Ash Way P&R - Mountlake Terrace,3
+29,120,120,Canyon Park -Edmonds CC,3
+29,130,130,Edmonds - Lynnwood,3
+29,196,196,Alderwood Mall - Edmonds,3
+29,201,201,Smokey Point - Lynnwood,3
+29,202,202,Smokey Point - Lynnwood,3
+29,220,220,Arlington - Smokey Point,3
+29,222,222,Marysville - Tulalip,3
+29,227,227,Arlington - Boeing,3
+29,230,230,Darrington - Arlington,3
+29,240,240,Stanwood - Smokey Point,3
+29,247,247,Stanwood - Boeing,3
+29,270,270,Gold Bar - Everett,3
+29,271,271,Gold Bar - Everett,3
+29,277,277,Gold Bar - Boeing,3
+29,280,280,Granite Falls - Everett,3
+29,402,402,Lynnwood - Seattle,3
+29,405,405,Edmonds P&R - Seattle,3
+29,410,410,Mariner P&R - Seattle,3
+29,412,412,Silver Firs - Seattle,3
+29,413,413,Swamp Creek P&R - Seattle,3
+29,415,415,North Lynnwood - Seattle,3
+29,416,416,Edmonds - Seattle,3
+29,417,417,Mukilteo - Seattle,3
+29,421,421,Marysville - Seattle,3
+29,422,422,Stanwood - Seattle,3
+29,424,424,Snohomish - Seattle,3
+29,425,425,Lake Stevens - Seattle,3
+29,435,435,Mill Creek - Seattle,3
+29,510,510,Everett - Seattle,3
+29,511,511,Ash Way - Seattle,3
+29,512,512,Everett - Seattle,3
+29,513,513,Everett - Seattle,3
+29,532,532,Everett - Bellevue,3
+29,535,535,Lynnwood - Bellevue,3
+29,701,Swift,Everett - Aurora Village,3
+29,810,810,McCollum Park - University District,3
+29,821,821,Marysville - University District,3
+29,855,855,Lynnwood - University District,3
+29,860,860,McCollum Park - University District,3
+29,871,871,Edmonds P&R - University District,3
+29,880,880,Mukilteo - University District,3

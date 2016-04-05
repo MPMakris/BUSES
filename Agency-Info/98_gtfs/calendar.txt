@@ -1,0 +1,2 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+727A1138,1,1,1,1,1,0,0,20160320,20171231

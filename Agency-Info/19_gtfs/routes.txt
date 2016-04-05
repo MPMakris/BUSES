@@ -1,0 +1,27 @@
+agency_id,route_id,route_short_name,route_long_name,route_type
+19,1,12,West Tumwater,3
+19,10,47,Capital Medical Center,3
+19,11,48,Capital Mall/TESC,3
+19,12,60,Lacey via Group Health,3
+19,13,62A,Martin Way/Meridian,3
+19,14,62B,Martin Way/The Meadows,3
+19,15,64,College St/Amtrak,3
+19,16,66,Ruddell Road,3
+19,17,67,Tri Lake,3
+19,18,68,Yelm Hwy/Carpenter Rd,3
+19,2,13,East Tumwater,3
+19,20,94,Boulevard Rd/Yelm,3
+19,21,603,Olympia/Tacoma,3
+19,23,620,Olympia/Tacoma Mall,3
+19,28,42,Family Court,3
+19,29,43,SPSCC/Tumwater Square,3
+19,33,49,Capital Mall,3
+19,35,101,Dash,3
+19,36,411,Nightline,3
+19,37,605,Olympia/Lacey/Tacoma,3
+19,38,612,Lacey\Tacoma,3
+19,39,609,Tumwater/Lakewood,3
+19,5,21,N Bethel/N Central,3
+19,7,41,TESC,3
+19,8,44,SPSCC/Capital Mall,3
+19,9,45,Conger/Capital Mall,3

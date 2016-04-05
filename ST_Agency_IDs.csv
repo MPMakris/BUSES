@@ -1,6 +1,10 @@
-King County Metro, 	1
-Pierce Transit, 3
-InterCityTransit, 19
-Community Transit, 20
-Sound Transit, 40
-Washington State Ferries, 95
+1, Metro Transit
+3, Pierce Transit
+19, Intercity Transit
+23, City of Seattle
+29, Community Transit
+40, Sound Transit
+97, Everett Transit
+95, Washington State Ferries
+98, Seattle Children's Hospital Shuttle
+KMD, Kingcounty Marine Divison

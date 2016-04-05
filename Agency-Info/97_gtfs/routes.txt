@@ -1,0 +1,13 @@
+agency_id,route_id,route_short_name,route_long_name,route_type,route_desc,route_color,route_text_color
+97,1,12,Mall Circulator,3,Mall Circulator,284384,FFFFFF
+97,10,7,S to Mall Station - N to College Station,3,North to College Station,284384,FFFFFF
+97,11,70,E to Boeing - W to Mukilteo,3,Commuter West to Mukilteo,284384,FFFFFF
+97,12,8,S to Airport Rd - N to Everett Station,3,South to Airport Rd,284384,FFFFFF
+97,2,2,South Everett Circulator,3,South Everett Circulator,284384,FFFFFF
+97,3,4,North Everett Circulator,3,North Everett Circulator,284384,FFFFFF
+97,4,17,S to Mall Station - N to Everett Station,3,South to Mall Station via Colby,284384,FFFFFF
+97,5,18,W to Mukilteo - E to Everett Station,3,East to Everett Station,284384,FFFFFF
+97,6,29,S to Mall Station - N to College Station,3,South to Mall Station,284384,FFFFFF
+97,7,3,S to W Casino - N to Everett Station,3,South to W Casino Rd,284384,FFFFFF
+97,8,5,North Everett Circulator,3,North Everett Circulator,284384,FFFFFF
+97,9,6,N to Harborfront - S to Everett Station,3,North to Harborfront,284384,FFFFFF

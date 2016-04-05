@@ -1,0 +1,4 @@
+fare_id,price,currency_type,payment_method,transfers,youth_price,senior_price
+1,2.0,USD,0,0,0.75,0.75
+31,2.5,USD,0,0,1.25,3.5
+32,3.5,USD,0,0,2.5,1.5

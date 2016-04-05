@@ -1,0 +1,9 @@
+agency_id,route_id,route_short_name,route_long_name,route_type
+98,863,,SCH-Church,3
+98,865,,SCH-E1,3
+98,867,,SCH-Green,3
+98,869,,SCH-Gold,3
+98,871,,SCH-Magnuson,3
+98,873,,SCH-Orange,3
+98,875,,SCH-Parking,3
+98,876,,SCH-Purple,3

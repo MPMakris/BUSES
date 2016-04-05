@@ -1,0 +1,24 @@
+stop_id,stop_name,stop_lat,stop_lon,stop_desc,zone_id,stop_url
+S_AU_NB,Auburn Station (Northbound),47.306299,-122.232137,Auburn Station - 23 A Street SW,S_AU,
+S_AU_SB,Auburn Station (Southbound),47.306299,-122.232375,Auburn Station - 23 A Street SW,S_AU,
+S_ED,Edmonds Station,47.811152,-122.384373,Edmonds Station - 170 Railroad Avenue,S_ED,
+S_EV,Everett Station,47.974947,-122.197257,Everett Station - 3201 Smith Ave,S_EV,
+S_KE_NB,Kent Station (Northbound),47.384022,-122.232903,Kent Station - 301 Railroad Avenue North,S_KE,
+S_KE_SB,Kent Station (Southbound),47.384257,-122.233151,Kent Station - 301 Railroad Avenue North,S_KE,
+S_KS,King Street Station,47.597702,-122.329456,King Street Station - 301 South Jackson Street,S_KS,
+S_LW,Lakewood Station,47.153189,-122.499103,Lakewood Station - Pacific Hwy SW & 114th St SW,S_LW,
+S_MU,Mukilteo Station,47.948370,-122.301052,Mukilteo Station - SR525 and 1st Street,S_MU,
+S_PU_NB,Puyallup Station (Northbound),47.192634,-122.295644,Puyallup Station - 131 West Main Street,S_PU,
+S_PU_SB,Puyallup Station (Southbound),47.192736,-122.295349,Puyallup Station - 131 West Main Street,S_PU,
+S_ST,South Tacoma Station,47.203491,-122.485552,South Tacoma Station - S 58th St & Hood St,S_ST,
+S_SU_NB,Sumner Station (Northbound),47.201418,-122.244497,Sumner Station - 810 Maple Street,S_SU,
+S_SU_SB,Sumner Station (Southbound),47.201218,-122.245037,Sumner Station - 810 Maple Street,S_SU,
+S_TD,Tacoma Dome Station,47.239571,-122.428740,Tacoma Dome Station - 424 25th Street,S_TD,
+S_TK_NB,Tukwila Station (Northbound),47.460301,-122.240364,Tukwila Station - S Longacres Way & Longacres Dr SW,S_TK,
+S_TK_SB,Tukwila Station (Southbound),47.460432,-122.240507,Tukwila Station - S Longacres Way & Longacres Dr SW,S_TK,
+TL_25,South 25th Street Station,47.239081,-122.434202,South 25th Street,TLZ,http://www.soundtransit.org/x1336.xml
+TL_CC,Convention Center Station,47.249496,-122.438552,Convention Center / South 15th Street,TLZ,http://www.soundtransit.org/x1279.xml
+TL_CS,Commerce Street Station,47.254000,-122.439000,Commerce Street / South 11th Street,TLZ,
+TL_TD,Tacoma Dome Station,47.239868,-122.428118,Tacoma Dome,TLZ,http://www.soundtransit.org/x1349.xml
+TL_THD,Theater District Station,47.256198,-122.439963,Theater District / South 9th Street,TLZ,http://www.soundtransit.org/x1350.xml
+TL_US,Union Station,47.244865,-122.436623,Union Station / South 19th Street,TLZ,http://www.soundtransit.org/x1355.xml
