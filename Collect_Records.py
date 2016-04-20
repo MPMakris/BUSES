@@ -134,7 +134,7 @@ def call_oba_api():
         vehicle_ids.append(num)
     
     # Write Vehicle Data to CSV File "Positions_AgencyID_Timestamp"
-    with open('./Position_Data_Records/Positions_'+agency_ID+"_"+str(pos_call_timestamp)+".csv", 'w') as myfile:
+    with open('./Position_Data_Records/Positions_'+agency_ID+"_"+str(pos_call_timestamp)+".csv", 'wb') as myfile:
         wr = csv.writer(myfile, delimiter = ',', quoting=csv.QUOTE_NONE)
         wr.writerow(("Trip_Id", "Route_Id", "Vehicle_Id", "Vehicle_Timestamp", "Vehicle_Latitude", "Vehicle_Longitude"))
         for i in range(len(vehicles)):
@@ -255,7 +255,7 @@ def call_oba_api():
         trip_update_delays.append(num)
     
     # Write Trip Update info to CSV File "Trip_Updates_AgencyID_Timestamp"
-    with open('./Trip_Update_Data_Records/Trip_Updates_'+agency_ID+"_"+str(trip_updates_timestamp)+".csv", 'w') as myfile:
+    with open('./Trip_Update_Data_Records/Trip_Updates_'+agency_ID+"_"+str(trip_updates_timestamp)+".csv", 'wb') as myfile:
         wr = csv.writer(myfile, delimiter = ',', quoting=csv.QUOTE_NONE)
         wr.writerow(("Trip_Id", "Route_Id", "Vehicle_Id", "Trip_Update_Timestamp", "Departure_Time", "Stop_Id", "Delay"))
         for i in range(len(trip_updates)):
@@ -266,10 +266,19 @@ def call_oba_api():
 # Begin Loop of Collecting Data
 stop_sign = True
 number_of_records = 0
+error_count=0
 
 while stop_sign:
-    number_of_records +=1
-    call_oba_api()
-    if number_of_records>=15:
+    try:
+        number_of_records +=1
+        call_oba_api()
+        error_count=0
+    except:
+        print "Error occurred at: ", time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(int(time.time())))
+        error_count+=1
+        print "Errors: ", error_count
+    if number_of_records>=4:
+        stop_sign=False
+    if error_count>=3:
         stop_sign=False
     time.sleep(3)
