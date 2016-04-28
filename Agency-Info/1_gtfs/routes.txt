@@ -32,7 +32,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_desc,route_
 1,100049,154,,3,Tukwila Station to Boeing Industrial,http://metro.kingcounty.gov/schedules/154/n0.html
 1,100051,158,,3,Kent East Hill to Downtown Seattle,http://metro.kingcounty.gov/schedules/158/n0.html
 1,100052,159,,3,Timberlane/Lake Mer P&R/Kent Rail Sta/DT Seattle,http://metro.kingcounty.gov/schedules/159/n0.html
-1,100053,16,,3,Northgate TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/016/n0.html
 1,100057,164,,3,Green River Community College to Kent Rail Station,http://metro.kingcounty.gov/schedules/164/n0.html
 1,100058,166,,3,Kent Rail Sta/Highline Coll/Des Moines/Burien TC,http://metro.kingcounty.gov/schedules/166/n0.html
 1,100059,167,,3,South Renton P&R to University District,http://metro.kingcounty.gov/schedules/167/n0.html
@@ -73,11 +72,9 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_desc,route_
 1,100130,238,,3,UW/CCC Campus Bothell Totem Lake TC Kirkland TC,http://metro.kingcounty.gov/schedules/238/n0.html
 1,100132,24,,3,West Magnolia to Downtown Seattle,http://metro.kingcounty.gov/schedules/024/n0.html
 1,100133,240,,3,Bellevue TC to Renton TC,http://metro.kingcounty.gov/schedules/240/n0.html
-1,100134,242,,3,Ridgecrest to Overlake P&R,http://metro.kingcounty.gov/schedules/242/n0.html
 1,100136,245,,3,Kirkland TC to Crossroads to Factoria,http://metro.kingcounty.gov/schedules/245/n0.html
 1,100137,246,,3,Eastgate P&R Somerset Bellevue TC Clyde Hill,http://metro.kingcounty.gov/schedules/246/n0.html
 1,100139,249,,3,Overlake TC to South Bellevue P&R,http://metro.kingcounty.gov/schedules/249/n0.html
-1,100140,25,,3,Laurelhurst to Downtown Seattle,http://metro.kingcounty.gov/schedules/025/n0.html
 1,100143,252,,3,Kingsgate to Downtown Seattle,http://metro.kingcounty.gov/schedules/252/n0.html
 1,100146,255,,3,Brickyard P&R to Kirkland TC to Downtown Seattle,http://metro.kingcounty.gov/schedules/255/n0.html
 1,100148,257,,3,Brickyard P&R to Downtown Seattle,http://metro.kingcounty.gov/schedules/257/n0.html
@@ -89,7 +86,6 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_desc,route_
 1,100168,277,,3,Juanita to University District,http://metro.kingcounty.gov/schedules/277/n0.html
 1,100169,28,,3,Whittier Heights to Fremont to Downtown Seattle,http://metro.kingcounty.gov/schedules/028/n0.html
 1,100173,3,,3,N QA - CBD - Madrona,http://metro.kingcounty.gov/schedules/003/n0.html
-1,100174,30,,3,Sandpoint to University District,http://metro.kingcounty.gov/schedules/030/n0.html
 1,100175,301,,3,Aurora Village TC to Richmond Beach to Downtown Se,http://metro.kingcounty.gov/schedules/301/n0.html
 1,100177,303,,3,Shoreline - NTC - First Hill,http://metro.kingcounty.gov/schedules/303/n0.html
 1,100178,304,,3,Richmond Beach to Downtown Seattle,http://metro.kingcounty.gov/schedules/304/n0.html
@@ -111,7 +107,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_desc,route_
 1,100207,355,,3,Shoreline Community College to Downtown Seattle,http://metro.kingcounty.gov/schedules/355/n0.html
 1,100210,36,,3,Othello Stn - Beacon Hill - Downtown Sea,http://metro.kingcounty.gov/schedules/036/n0.html
 1,100212,37,,3,Alaska Junction to Alki to Downtown Seattle,http://metro.kingcounty.gov/schedules/037/n0.html
-1,100214,372,,3,Woodinville P&R to University District,http://metro.kingcounty.gov/schedules/372/n0.html
+1,100214,372,,3,UW Bothell Campus to University District,http://metro.kingcounty.gov/schedules/372/n0.html
 1,100215,373,,3,Aurora Village TC to University District,http://metro.kingcounty.gov/schedules/373/n0.html
 1,100217,38,,3,Seattle Center - Capitol Hill - Rainier Beach,http://metro.kingcounty.gov/schedules/038/n0.html
 1,100219,4,,3,E QA - CBD - Judkins Pk,http://metro.kingcounty.gov/schedules/004/n0.html
@@ -120,7 +116,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_desc,route_
 1,100224,44,,3,Ballard - Montlake,http://metro.kingcounty.gov/schedules/044/n0.html
 1,100225,45,,3,Loyal Heights to University District,http://metro.kingcounty.gov/schedules/045/n0.html
 1,100227,47,,3,Summit - Downtown Seattle,http://metro.kingcounty.gov/schedules/047/n0.html
-1,100228,48,,3,Mt Baker to University District to Loyal Heights,http://metro.kingcounty.gov/schedules/048/n0.html
+1,100228,48,,3,Mt Baker to University District,http://metro.kingcounty.gov/schedules/048/n0.html
 1,100229,5,,3,Shoreline CC to Greenwood to Downtown Seattle,http://metro.kingcounty.gov/schedules/005/n0.html
 1,100230,50,,3,Alki to West Sea/SODO/Beacn Hill/VA Hosp/ Col City,http://metro.kingcounty.gov/schedules/050/n0.html
 1,100238,55,,3,Admiral District to Alaska Junction to Downtown Se,http://metro.kingcounty.gov/schedules/055/n0.html
@@ -131,14 +127,11 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_desc,route_
 1,100252,62,,3,CBD-Sand Point,http://metro.kingcounty.gov/schedules/062/n0.html
 1,100253,64,,3,Lake City to Downtown Seattle to First Hill,http://metro.kingcounty.gov/schedules/064/n0.html
 1,100254,65,,3,Lake City  to University District,http://metro.kingcounty.gov/schedules/065/n0.html
-1,100256,66,,3,Northgate TC to U-District to Downtown Seattle,http://metro.kingcounty.gov/schedules/066/n0.html
 1,100258,661,,3,North Base Shuttle and Shoreline NE 145/I5 to SODO,http://metro.kingcounty.gov/schedules/661/n0.html
 1,100259,67,,3,Northgate TC to Roosevelt to University District,http://metro.kingcounty.gov/schedules/067/n0.html
-1,100261,68,,3,Northgate TC to Ravenna to University District,http://metro.kingcounty.gov/schedules/068/n0.html
 1,100263,7,,3,Prentice St - Rainier Bch - Downtown Sea,http://metro.kingcounty.gov/schedules/007/n0.html
 1,100264,70,,3,University District to Eastlake to CBD,http://metro.kingcounty.gov/schedules/070/n0.html
 1,100265,71,,3,Wedgwood to University District to CBD,http://metro.kingcounty.gov/schedules/071/n0.html
-1,100266,72,,3,Lake City to University District to CBD,http://metro.kingcounty.gov/schedules/072/n0.html
 1,100267,73,,3,Jackson Park to University District to CBD,http://metro.kingcounty.gov/schedules/073/n0.html
 1,100268,74,,3,Peak hr express fr Sand Point to Downtown Seattle,http://metro.kingcounty.gov/schedules/074/n0.html
 1,100269,75,,3,Northgate TC to Lake City to Sand Pt to U-District,http://metro.kingcounty.gov/schedules/075/n0.html
@@ -175,7 +168,7 @@ agency_id,route_id,route_short_name,route_long_name,route_type,route_desc,route_
 1,100447,49,,3,U Dist - Broadway - Downtown Sea,http://metro.kingcounty.gov/schedules/049/n0.html
 1,100448,248,,3,Avondale to Redmond TC to Kirkland TC,http://metro.kingcounty.gov/schedules/248/n0.html
 1,100459,218,,3,Issaquah Hlnds Downtown,http://metro.kingcounty.gov/schedules/218/n0.html
-1,100469,180,,3,Auburn/Kent Rail Station/Sea Tac/Burien TC,http://metro.kingcounty.gov/schedules/180/n0.html
+1,100469,180,,3,Auburn Sounder/Kent Sounder/Sea Tac/Burien,http://metro.kingcounty.gov/schedules/180/n0.html
 1,100473,981,,3,"Lakeside School, Houghton P&R",http://metro.kingcounty.gov/schedules/981/n0.html
 1,100475,157,,3,Lake Meridian P&R to Downtown Seattle,http://metro.kingcounty.gov/schedules/157/n0.html
 1,100476,244,,3,Kenmore P&R to Overlake TC,http://metro.kingcounty.gov/schedules/244/n0.html

@@ -17,12 +17,10 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 10170,Fairview Ave E & E Nelson Pl,47.630604,-122.328629,1,America/Los_Angeles
 10180,Fairview Ave N & Yale Ave N,47.628349,-122.331520,21,America/Los_Angeles
 10190,Fairview Ave N & Aloha St,47.627209,-122.332947,1,America/Los_Angeles
-1020,Howell St & Yale Ave,47.617626,-122.329407,21,America/Los_Angeles
 10210,Fairview Ave N & Republican St,47.622677,-122.334435,1,America/Los_Angeles
 10225,Fairview Ave N & Thomas St,47.620586,-122.334419,1,America/Los_Angeles
 10240,Boren Ave & Virginia St,47.617500,-122.333817,21,America/Los_Angeles
 10280,Fairview Ave & Denny Way,47.618420,-122.334198,21,America/Los_Angeles
-1030,Olive Way & 4th Ave,47.612099,-122.338570,21,America/Los_Angeles
 10305,Fairview Ave N & Harrison St,47.622276,-122.334244,1,America/Los_Angeles
 10325,Fairview Ave N & Valley St,47.626545,-122.333542,21,America/Los_Angeles
 10328,Valley St & Fairview Ave N,47.626034,-122.334106,1,America/Los_Angeles
@@ -56,7 +54,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 10570,Sand Point Way NE & NE 55th St,47.668327,-122.273605,21,America/Los_Angeles
 10580,Sand Point Way NE & NE Windermere Rd,47.670261,-122.270485,1,America/Los_Angeles
 10600,Sand Point Way NE & NE 61st St,47.672989,-122.266663,21,America/Los_Angeles
-10615,NE 65th St & Radford Dr NE,47.675857,-122.262726,1,America/Los_Angeles
 10620,Sand Point Way NE & NE 65th St,47.675968,-122.263428,21,America/Los_Angeles
 10630,Sand Point Way NE & NE 70th St,47.679432,-122.263519,21,America/Los_Angeles
 10640,Sand Point Way NE & NE 74th St,47.681759,-122.263565,21,America/Los_Angeles
@@ -106,7 +103,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 11033,Boren Ave & Columbia St,47.608227,-122.324013,21,America/Los_Angeles
 11035,Boren Ave & Madison St,47.609581,-122.325256,21,America/Los_Angeles
 11040,Broadway  E & E Republican St,47.622894,-122.321030,21,America/Los_Angeles
-11045,Boren Ave & Seneca St,47.611023,-122.326561,21,America/Los_Angeles
 11050,Broadway  E & E Thomas St,47.620815,-122.320992,21,America/Los_Angeles
 11060,Broadway & E Denny Way,47.618538,-122.320946,1,America/Los_Angeles
 11062,Broadway & E Denny Way,47.618164,-122.320946,1,America/Los_Angeles
@@ -133,7 +129,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 1120,Pine St & 4th Ave,47.611103,-122.338028,21,America/Los_Angeles
 11200,Broadway  E & E Mercer St,47.624611,-122.320839,21,America/Los_Angeles
 1121,Westlake Station - Bay A,47.611801,-122.335823,21,America/Los_Angeles
-1122,Westlake Station - Bay B,47.611286,-122.337067,21,America/Los_Angeles
 11230,10th Ave E & E Prospect St,47.628861,-122.320114,21,America/Los_Angeles
 11250,10th Ave E & E Galer St,47.632214,-122.320099,21,America/Los_Angeles
 11270,10th Ave E & E Howe St,47.636162,-122.319992,21,America/Los_Angeles
@@ -149,18 +144,12 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 11410,15th Ave E & E Roy St,47.625027,-122.312698,21,America/Los_Angeles
 11420,15th Ave E & E Mercer St,47.623970,-122.312714,21,America/Los_Angeles
 11430,15th Ave E & E Republican St,47.622894,-122.312737,21,America/Los_Angeles
-11450,15th Ave E & E John St,47.619804,-122.312820,21,America/Los_Angeles
-11460,15th Ave & E Denny Way,47.618301,-122.312851,21,America/Los_Angeles
-11470,15th Ave & E Olive St,47.616230,-122.312866,21,America/Los_Angeles
 11480,E Pine St & 15th Ave,47.615356,-122.313148,21,America/Los_Angeles
 11490,E Pine St & 13th Ave,47.615337,-122.315910,21,America/Los_Angeles
 11500,E Pine St & 11th Ave,47.615318,-122.318489,21,America/Los_Angeles
 11510,E Pine St & 10th Ave,47.615181,-122.319092,21,America/Los_Angeles
 11520,E Pine St & 12th Ave,47.615200,-122.316498,21,America/Los_Angeles
 11535,E Pine St & 15th Ave,47.615212,-122.312286,21,America/Los_Angeles
-11540,15th Ave & E Pine St,47.615604,-122.312668,21,America/Los_Angeles
-11550,15th Ave & E Howell St,47.617832,-122.312660,21,America/Los_Angeles
-11560,15th Ave E & E John Ct,47.619709,-122.312630,21,America/Los_Angeles
 11570,15th Ave E & E Harrison St,47.622570,-122.312538,21,America/Los_Angeles
 11590,15th Ave E & E Roy St,47.625423,-122.312492,21,America/Los_Angeles
 11600,15th Ave E & E Aloha St,47.627098,-122.312469,21,America/Los_Angeles
@@ -188,7 +177,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 11910,S Jackson St & 23rd Ave S,47.599346,-122.302032,21,America/Los_Angeles
 1192,Convention Place Station - Bay A,47.613941,-122.331520,21,America/Los_Angeles
 11920,S Jackson St & 20th Pl S,47.599335,-122.304642,21,America/Los_Angeles
-1193,Convention Place Station - Bay B,47.613930,-122.331551,1,America/Los_Angeles
 11940,S Jackson St & 18th Ave S,47.599304,-122.309349,21,America/Los_Angeles
 11960,S Jackson St & Rainier Ave S,47.599140,-122.313576,21,America/Los_Angeles
 11980,S Jackson St & 18th Ave S,47.599167,-122.309738,1,America/Los_Angeles
@@ -255,6 +243,7 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 12497,Martin L King Jr Way S & S Massachusetts St,47.588676,-122.297836,21,America/Los_Angeles
 1250,Seneca St & 4th Ave,47.607422,-122.334610,21,America/Los_Angeles
 12532,23rd Ave S & S Lane St,47.596710,-122.302124,1,America/Los_Angeles
+12550,23rd Ave S & S Jackson St,47.599693,-122.302139,1,America/Los_Angeles
 1260,Seneca St & 6th Ave,47.608742,-122.331482,21,America/Los_Angeles
 12600,23rd Ave & E Jefferson St,47.605900,-122.302879,21,America/Los_Angeles
 12630,23rd Ave S & E Yesler Way,47.601257,-122.302361,21,America/Los_Angeles
@@ -545,9 +534,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 16913,Northwest Hospital,47.713749,-122.336441,21,America/Los_Angeles
 16920,Meridian Ave N & N 120th St,47.716000,-122.334213,21,America/Los_Angeles
 16940,Meridian Ave N & N 115th St,47.711971,-122.334160,21,America/Los_Angeles
-16952,NE Northgate Way & 3rd Ave NE,47.708549,-122.325935,21,America/Los_Angeles
-16953,NE Northgate Way & 3rd Ave NE,47.708675,-122.325516,21,America/Los_Angeles
-16958,N Northgate Way & Meridian Ave N,47.708580,-122.333313,21,America/Los_Angeles
 16960,Meridian Ave N & N Northgate Way,47.708210,-122.334091,21,America/Los_Angeles
 16980,Meridian Ave N & N 105th St,47.705120,-122.334038,21,America/Los_Angeles
 16990,College Way N & N 103rd St,47.703052,-122.334106,21,America/Los_Angeles
@@ -594,7 +580,7 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 17680,Wallingford Ave N & N 90th St,47.694363,-122.336388,21,America/Los_Angeles
 17694,North Seattle College,47.697823,-122.332741,21,America/Los_Angeles
 17695,College Way N,47.697693,-122.332558,21,America/Los_Angeles
-17696,1st Ave NE & NE 95th St,47.697723,-122.328560,21,America/Los_Angeles
+17696,1st Ave NE & NE 95th St,47.696873,-122.328560,1,America/Los_Angeles
 17698,N 92nd St & Corliss Ave N,47.695995,-122.330513,21,America/Los_Angeles
 17710,College Way N & N 97th St,47.699268,-122.334908,21,America/Los_Angeles
 17730,College Way N & N 103rd St,47.703201,-122.333794,21,America/Los_Angeles
@@ -1036,7 +1022,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 23100,5th Ave NE & NE 80th St,47.686546,-122.323051,21,America/Los_Angeles
 23110,Banner Way NE & 5th Ave NE,47.684795,-122.322723,21,America/Los_Angeles
 23115,Banner Way NE & 5th Ave NE,47.684990,-122.322701,21,America/Los_Angeles
-23150,5th Ave NE & NE 127th St,47.721321,-122.323685,21,America/Los_Angeles
 23170,5th Ave NE & NE 123rd St,47.717728,-122.323639,21,America/Los_Angeles
 23180,5th Ave NE & NE 120th St,47.715584,-122.323586,21,America/Los_Angeles
 2320,1st Ave & Broad St,47.617218,-122.352859,21,America/Los_Angeles
@@ -1054,12 +1039,9 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 23310,5th Ave NE & NE 90th St,47.693878,-122.323151,21,America/Los_Angeles
 23320,5th Ave NE & NE 88th St,47.692272,-122.323120,21,America/Los_Angeles
 23330,5th Ave NE & NE 85th St,47.690178,-122.323105,21,America/Los_Angeles
-23350,NE 80th St & 5th Ave NE,47.686710,-122.322304,21,America/Los_Angeles
-23360,NE 80th St & 8th Ave NE,47.686691,-122.319954,21,America/Los_Angeles
 23370,Roosevelt Way NE & NE 80th St,47.686485,-122.317657,21,America/Los_Angeles
 23390,Roosevelt Way NE & NE 75th St,47.682865,-122.317589,21,America/Los_Angeles
 23420,Roosevelt Way NE & NE 69th St,47.678501,-122.317505,21,America/Los_Angeles
-23450,Eastlake Ave E & NE 40th St,47.655823,-122.318146,21,America/Los_Angeles
 23500,11th Ave NE & NE 50th St,47.665173,-122.316238,21,America/Los_Angeles
 23510,11th Ave NE & NE 52nd St,47.666714,-122.316208,21,America/Los_Angeles
 23520,11th Ave NE & NE 55th St,47.668758,-122.316185,21,America/Los_Angeles
@@ -1070,8 +1052,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 2360,1st Ave N & Republican St,47.623188,-122.355316,21,America/Los_Angeles
 23600,NE 75th St & 12th Ave NE,47.683124,-122.315651,21,America/Los_Angeles
 23610,Roosevelt Way NE & NE 75th St,47.683544,-122.317398,21,America/Los_Angeles
-23630,NE 80th St & Roosevelt Way NE,47.686806,-122.317955,21,America/Los_Angeles
-23640,NE 80th St & 8th Ave NE,47.686829,-122.320541,21,America/Los_Angeles
 23650,5th Ave NE & NE 80th St,47.687092,-122.322861,21,America/Los_Angeles
 23670,5th Ave NE & NE 85th St,47.690685,-122.322906,21,America/Los_Angeles
 23680,5th Ave NE & NE 88th St,47.692444,-122.322929,21,America/Los_Angeles
@@ -1086,14 +1066,11 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 23800,5th Ave NE & NE 115th St,47.712475,-122.323288,21,America/Los_Angeles
 23820,5th Ave NE & NE 120th St,47.716114,-122.323395,21,America/Los_Angeles
 23840,5th Ave NE & NE 125th St,47.718941,-122.323479,1,America/Los_Angeles
-23850,5th Ave NE & NE 127th St,47.721550,-122.323479,21,America/Los_Angeles
 23872,NE 125th St & Roosevelt Way NE,47.719524,-122.319061,21,America/Los_Angeles
 23890,25th Ave NE & NE 80th St,47.686165,-122.300934,21,America/Los_Angeles
 23895,25th Ave NE & NE 75th St,47.682823,-122.300858,21,America/Los_Angeles
 2390,2nd Ave W & W Roy St,47.625897,-122.359215,21,America/Los_Angeles
-23900,25th Ave NE & NE 70th St,47.679157,-122.300758,21,America/Los_Angeles
 23905,25th Ave NE & NE 65th St,47.676212,-122.300743,21,America/Los_Angeles
-23910,25th Ave NE & NE 60th St,47.671875,-122.300743,21,America/Los_Angeles
 23915,25th Ave NE & NE 55th St,47.668293,-122.300720,21,America/Los_Angeles
 23920,25th Ave NE & NE Blakeley St,47.665997,-122.300705,21,America/Los_Angeles
 23925,25th Ave NE & NE 47th St,47.662911,-122.301003,21,America/Los_Angeles
@@ -1188,50 +1165,8 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 25210,Montlake Blvd NE & NE 45th St,47.661041,-122.298904,21,America/Los_Angeles
 25240,Montlake Blvd NE & NE Pacific Pl - Bay 4,47.650547,-122.304283,21,America/Los_Angeles
 25243,Montlake Blvd E & E Lake Washington Blvd,47.644020,-122.304268,21,America/Los_Angeles
-25250,E Roanoke St & 22nd Ave E,47.643246,-122.304176,21,America/Los_Angeles
-25260,West Montlake Pl E & E Louisa St,47.642345,-122.306305,21,America/Los_Angeles
-25270,19th Ave E & E Calhoun St,47.641007,-122.307358,21,America/Los_Angeles
-25280,E Lynn St & 19th Ave E,47.639622,-122.307716,21,America/Los_Angeles
-25290,E Lynn St & Boyer Ave E,47.639626,-122.310570,21,America/Los_Angeles
-25300,Boyer Ave E & E Mcgraw St,47.640385,-122.312355,21,America/Los_Angeles
-25310,Boyer Ave E & 14th Ave E,47.641213,-122.313614,21,America/Los_Angeles
-25333,Boyer Ave E & E Roanoke St,47.643299,-122.316429,1,America/Los_Angeles
-25340,Boyer Ave E & E Hamlin St,47.645554,-122.316971,21,America/Los_Angeles
-25350,Boyer Ave E & E Shelby St,47.646877,-122.316971,21,America/Los_Angeles
-25360,Fuhrman Ave E & E Allison St,47.648155,-122.318069,21,America/Los_Angeles
-25361,Fuhrman Ave E & Broadway  E,47.649983,-122.319717,21,America/Los_Angeles
-25362,Franklin Ave E & Fuhrman Ave E,47.650517,-122.320801,21,America/Los_Angeles
-25363,Franklin Ave E & E Martin St,47.649620,-122.321495,21,America/Los_Angeles
-25400,Boylston Ave E & E Roanoke St,47.642830,-122.323532,21,America/Los_Angeles
-25420,Boylston Ave E & E Lynn St,47.639523,-122.323570,21,America/Los_Angeles
-25430,Boylston Ave E & E Boston St,47.638061,-122.323586,21,America/Los_Angeles
-25440,Lakeview Blvd E & Harvard Ave E,47.635948,-122.322586,21,America/Los_Angeles
-25450,Lakeview Blvd E & Boylston Ave E,47.633598,-122.322510,21,America/Los_Angeles
-25460,Lakeview Blvd E & E Highland Dr,47.630772,-122.324600,21,America/Los_Angeles
-25470,Lakeview Blvd E & Belmont Ave E,47.628448,-122.327148,21,America/Los_Angeles
-25480,Lakeview Blvd E & Belmont Ave E,47.628517,-122.326767,21,America/Los_Angeles
-25490,Lakeview Blvd E & E Highland Dr,47.630775,-122.324341,21,America/Los_Angeles
 2550,7th Ave W & W Pleasant Pl,47.642735,-122.366341,1,America/Los_Angeles
-25500,Lakeview Blvd E & Boylston Ave E,47.633770,-122.322304,21,America/Los_Angeles
-25510,Lakeview Blvd E & E Howe St,47.636059,-122.322449,21,America/Los_Angeles
-25520,Boylston Ave E & E Boston St,47.638199,-122.323380,21,America/Los_Angeles
-25530,Boylston Ave E & E Lynn St,47.639904,-122.323364,1,America/Los_Angeles
-25550,Boylston Ave E & E Roanoke St,47.643047,-122.323326,21,America/Los_Angeles
-25560,Franklin Ave E & E Martin St,47.649826,-122.321098,21,America/Los_Angeles
-25570,Franklin Ave E & Fuhrman Ave E,47.650555,-122.320541,21,America/Los_Angeles
-25580,Fuhrman Ave E & Broadway  E,47.649777,-122.319778,21,America/Los_Angeles
-25600,Fuhrman Ave E & E Shelby St,47.646942,-122.317223,21,America/Los_Angeles
-25610,Boyer Ave E & E Hamlin St,47.645462,-122.317177,21,America/Los_Angeles
-25620,Boyer Ave E & E Roanoke St,47.643085,-122.316429,1,America/Los_Angeles
-25640,Boyer Ave E & 14th Ave E,47.641022,-122.313629,21,America/Los_Angeles
-25650,Boyer Ave E & E Mcgraw St,47.640240,-122.312401,21,America/Los_Angeles
 2570,W Mcgraw St & 6th Ave W,47.639523,-122.365318,21,America/Los_Angeles
-25700,E Lynn St & Boyer Ave E,47.639492,-122.310387,21,America/Los_Angeles
-25710,E Lynn St & 19th Ave E,47.639477,-122.307388,21,America/Los_Angeles
-25720,19th Ave E & E Mcgraw St,47.640495,-122.307152,21,America/Los_Angeles
-25730,19th Ave E & E Miller St,47.641651,-122.306870,21,America/Los_Angeles
-25740,West Montlake Pl E & E Louisa St,47.642612,-122.305733,21,America/Los_Angeles
-25750,E Roanoke St & 22nd Ave E,47.643093,-122.303864,21,America/Los_Angeles
 25751,Montlake Blvd E & Sr 520,47.644924,-122.304367,1,America/Los_Angeles
 25752,Montlake Blvd E & E Shelby St,47.646282,-122.304436,21,America/Los_Angeles
 25765,Montlake Blvd NE & NE Pacific Pl - Bay 3,47.651367,-122.303604,1,America/Los_Angeles
@@ -1239,9 +1174,7 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 25791,25th Ave NE & NE 47th St,47.663612,-122.300804,21,America/Los_Angeles
 25792,25th Ave NE & NE Blakeley St,47.666599,-122.300514,21,America/Los_Angeles
 25793,25th Ave NE & NE 55th St,47.668735,-122.300529,21,America/Los_Angeles
-25794,25th Ave NE & NE 60th St,47.672379,-122.300545,21,America/Los_Angeles
 25795,25th Ave NE & NE 65th St,47.676003,-122.300552,21,America/Los_Angeles
-25796,25th Ave NE & NE 70th St,47.679691,-122.300568,21,America/Los_Angeles
 25797,25th Ave NE & NE 75th St,47.683147,-122.300667,21,America/Los_Angeles
 25798,25th Ave NE & NE 80th St,47.686481,-122.300743,21,America/Los_Angeles
 2580,6th Ave W & W Crockett St,47.637566,-122.365089,21,America/Los_Angeles
@@ -1310,10 +1243,8 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 2660,Queen Anne Ave N & W Highland Dr,47.629612,-122.356728,21,America/Los_Angeles
 26600,Westlake Ave N & Highland Dr,47.629795,-122.341087,21,America/Los_Angeles
 26610,Westlake Ave N & Aloha St,47.627697,-122.340141,1,America/Los_Angeles
-26635,9th Ave N & Mercer St,47.624096,-122.339844,21,America/Los_Angeles
 26641,Westlake Ave N & Mercer St,47.624348,-122.338547,21,America/Los_Angeles
 26645,Westlake Ave N & Harrison St,47.621380,-122.338570,21,America/Los_Angeles
-26652,9th Ave N & John St,47.619808,-122.339882,21,America/Los_Angeles
 26665,Westlake Ave & 9th Ave,47.617794,-122.338463,1,America/Los_Angeles
 26680,Westlake Ave & Olive Way,47.613293,-122.337341,21,America/Los_Angeles
 26689,Westlake Ave & 7th Ave,47.615623,-122.337807,21,America/Los_Angeles
@@ -1383,6 +1314,7 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 27395,E Yesler Way & 14th Ave,47.601757,-122.314445,21,America/Los_Angeles
 2740,Queen Anne Ave N & W Lee St,47.631493,-122.356491,21,America/Los_Angeles
 27420,E Yesler Way & Broadway,47.601772,-122.320625,1,America/Los_Angeles
+27430,Yesler Way & 8th Ave,47.601776,-122.322876,21,America/Los_Angeles
 27480,Yesler Way & 8th Ave S,47.601635,-122.322578,21,America/Los_Angeles
 27500,E Yesler Way & Broadway,47.601627,-122.320076,21,America/Los_Angeles
 27510,E Yesler Way & 12th Ave S,47.601620,-122.316254,21,America/Los_Angeles
@@ -1496,27 +1428,15 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 28890,3rd Ave NW & NW 143rd St,47.732574,-122.360840,21,America/Los_Angeles
 2890,Madrona Dr & Madrona Pl E,47.618347,-122.285255,21,America/Los_Angeles
 28970,55th Ave NE & NE 44th St,47.660145,-122.269096,21,America/Los_Angeles
-28980,55th Ave NE & NE 42nd St,47.658676,-122.269753,21,America/Los_Angeles
 28990,NE 41st St & 51st Ave NE,47.658081,-122.272293,21,America/Los_Angeles
 2900,E Denny Way & E Florence Ct,47.618359,-122.288643,21,America/Los_Angeles
 29000,NE 41st St & 50th Ave NE,47.658451,-122.273933,21,America/Los_Angeles
-29010,48th Ave NE & NE 41st St,47.658184,-122.276787,21,America/Los_Angeles
-29020,NE 39th St & 47th Ave NE,47.656444,-122.277412,21,America/Los_Angeles
-29030,47th Ave NE & NE 38th St,47.655418,-122.277061,21,America/Los_Angeles
-29040,East Laurelhurst Dr NE & 47th Ave NE,47.653107,-122.277199,21,America/Los_Angeles
-29050,NE 33rd St & West Laurelhurst Dr NE,47.652214,-122.278374,21,America/Los_Angeles
-29060,42nd Ave NE & 43rd Ave NE,47.654472,-122.281059,21,America/Los_Angeles
-29070,42nd Ave NE & NE 38th St,47.655994,-122.282661,21,America/Los_Angeles
-29080,42nd Ave NE & NE 41st St,47.658279,-122.282661,21,America/Los_Angeles
 29085,42nd Ave NE & NE 41st St,47.658665,-122.282646,1,America/Los_Angeles
-29090,42nd Ave NE & NE 45th St,47.661148,-122.282646,21,America/Los_Angeles
 29091,NE 45th St & 45th Ave NE,47.661541,-122.280174,21,America/Los_Angeles
 2910,34th Ave & E Howell St,47.617393,-122.289284,21,America/Los_Angeles
 29100,NE 45th St & 42nd Ave NE,47.661346,-122.282730,21,America/Los_Angeles
 29105,NE 41st St & 42nd Ave NE,47.658535,-122.283424,1,America/Los_Angeles
 2911,34th Ave & E Olive St,47.616303,-122.289314,21,America/Los_Angeles
-29110,NE 45th St & 40th Ave NE,47.661335,-122.284637,21,America/Los_Angeles
-29120,NE 45th St & Sand Point Way NE,47.661327,-122.286705,21,America/Los_Angeles
 29130,NE 45th St & 36th Ave NE,47.661190,-122.289230,21,America/Los_Angeles
 2920,34th Ave & E Pine St,47.614986,-122.289352,21,America/Los_Angeles
 29200,N 46th St & Aurora Ave N,47.661995,-122.346962,21,America/Los_Angeles
@@ -1534,7 +1454,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 29234,N 45th St & Corliss Ave N,47.661308,-122.331032,21,America/Los_Angeles
 29236,NE 45th St & Thackeray Pl NE,47.661278,-122.326347,21,America/Los_Angeles
 29240,NE Pacific St & 15th Ave NE,47.652245,-122.311211,21,America/Los_Angeles
-29241,NE Pacific St & NE Pacific Pl,47.650078,-122.306839,21,America/Los_Angeles
 29242,NE Pacific Pl & NE Pacific St,47.650486,-122.306839,1,America/Los_Angeles
 29243,NE Pacific Pl & NE Pacific St,47.650509,-122.305923,21,America/Los_Angeles
 29244,24th Ave E & E Calhoun St,47.640690,-122.302170,21,America/Los_Angeles
@@ -1543,7 +1462,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 29248,24th Ave E & E Newton St,47.637692,-122.301620,21,America/Los_Angeles
 29249,24th Ave E & Boyer Ave E,47.634998,-122.301674,21,America/Los_Angeles
 29251,24th Ave E & E Galer St,47.632168,-122.301712,21,America/Los_Angeles
-29252,E Olive Way & Broadway,47.619839,-122.321785,21,America/Los_Angeles
 29253,24th Ave E & E Prospect St,47.629044,-122.301773,21,America/Los_Angeles
 29254,23rd Ave E & E Aloha St,47.626583,-122.302498,21,America/Los_Angeles
 29255,23rd Ave E & E Roy St,47.624985,-122.302521,21,America/Los_Angeles
@@ -1575,7 +1493,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 29380,East Montlake Pl E & E Roanoke St,47.643097,-122.302849,21,America/Los_Angeles
 2940,E Union St & 33rd Ave,47.612972,-122.290802,21,America/Los_Angeles
 29405,NE Pacific St & Montlake Blvd NE - Bay 2,47.649727,-122.305817,1,America/Los_Angeles
-29410,NE Pacific St & NE Pacific Pl,47.650509,-122.307358,21,America/Los_Angeles
 29421,NE 40th St & Latona Ave NE,47.655609,-122.326180,1,America/Los_Angeles
 29426,NE Northlake Way & 7th Ave NE,47.654430,-122.320747,21,America/Los_Angeles
 29430,15th Ave NE & NE Pacific St,47.653572,-122.312027,21,America/Los_Angeles
@@ -1606,17 +1523,12 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 29915,Mary Gates Memorial Dr NE & NE 45th St,47.661030,-122.292809,1,America/Los_Angeles
 29920,NE 45th St & Mary Gates Memorial Dr NE,47.661148,-122.292465,21,America/Los_Angeles
 29930,NE 45th St & 36th Ave NE,47.661049,-122.289024,21,America/Los_Angeles
-29940,NE 45th St & 38th Ave NE,47.661190,-122.286728,21,America/Los_Angeles
 2995,E Union St & 23rd Ave,47.613007,-122.303001,21,America/Los_Angeles
-29950,NE 45th St & 40th Ave NE,47.661194,-122.284721,21,America/Los_Angeles
 29952,NE 45th St & 42nd Ave NE,47.661205,-122.282509,21,America/Los_Angeles
-29954,NE 45th St & 47th Ave NE,47.661221,-122.277275,21,America/Los_Angeles
 300,2nd Ave & Pike St,47.608646,-122.338432,21,America/Los_Angeles
 3000,E Union St & 20th Ave,47.612980,-122.306168,21,America/Los_Angeles
-30090,NE 45th St & 49th Ave NE,47.661209,-122.274696,21,America/Los_Angeles
 3010,E Union St & 18th Ave,47.612972,-122.309349,21,America/Los_Angeles
 30100,NE 45th St & 51st Ave NE,47.661209,-122.272537,21,America/Los_Angeles
-30110,West Laurel Dr NE & East Laurel Dr NE,47.662571,-122.270309,21,America/Los_Angeles
 30122,Seward Park Ave S & S Fisher Pl,47.521645,-122.264366,1,America/Los_Angeles
 30140,S Henderson St & Rainier Ave S,47.523376,-122.270554,21,America/Los_Angeles
 30160,S Henderson St & Renton Ave S,47.523384,-122.276894,21,America/Los_Angeles
@@ -2041,7 +1953,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 35740,NE 65th St & 12th Ave NE,47.675743,-122.315376,21,America/Los_Angeles
 35741,15th Ave NE & NE 65th St,47.675468,-122.312027,21,America/Los_Angeles
 35770,15th Ave NE & NE Ravenna Blvd,47.670467,-122.312004,1,America/Los_Angeles
-35780,15th Ave NE & NE 55th St,47.668457,-122.311989,21,America/Los_Angeles
 35790,15th Ave NE & NE 52nd St,47.666298,-122.312019,21,America/Los_Angeles
 3580,S Charles St & Golf Dr S,47.594143,-122.316727,21,America/Los_Angeles
 35800,15th Ave NE & NE 50th St,47.664520,-122.312042,21,America/Los_Angeles
@@ -2052,7 +1963,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 35840,23rd Ave & E Olive St,47.616898,-122.302711,21,America/Los_Angeles
 35850,23rd Ave & E Pine St,47.615120,-122.302757,21,America/Los_Angeles
 35860,23rd Ave & E Union St,47.612698,-122.302826,21,America/Los_Angeles
-35880,23rd Ave & E Marion St,47.609817,-122.302864,21,America/Los_Angeles
 3589,12th Ave S & S Weller St,47.597378,-122.317123,1,America/Los_Angeles
 35890,23rd Ave S & S Dearborn St,47.595326,-122.302330,21,America/Los_Angeles
 35910,23rd Ave S & S Judkins St,47.591621,-122.302505,21,America/Los_Angeles
@@ -2114,9 +2024,7 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 36840,23rd Ave & E Pine St,47.615459,-122.302551,21,America/Los_Angeles
 36845,23rd Ave & E Olive St,47.616734,-122.302505,21,America/Los_Angeles
 36860,15th Ave NE & NE 45th St,47.661488,-122.311882,21,America/Los_Angeles
-36880,15th Ave NE & NE 50th St,47.665180,-122.311836,21,America/Los_Angeles
 36890,15th Ave NE & NE 52nd St,47.666607,-122.311813,21,America/Los_Angeles
-36900,15th Ave NE & NE 55th St,47.668758,-122.311783,21,America/Los_Angeles
 36910,15th Ave NE & NE Ravenna Blvd,47.670456,-122.311798,1,America/Los_Angeles
 36930,NE 65th St & 15th Ave NE,47.675854,-122.312538,21,America/Los_Angeles
 36940,NE 65th St & 12th Ave NE,47.675880,-122.315536,21,America/Los_Angeles
@@ -2174,7 +2082,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 37520,NE 65th St & Princeton Ave NE,47.675709,-122.275513,21,America/Los_Angeles
 37530,50th Ave NE & NE 68th St,47.677742,-122.274162,21,America/Los_Angeles
 37540,50th Ave NE & NE 70th St,47.679260,-122.274200,21,America/Los_Angeles
-37542,NE 70th St & 55th Ave NE,47.679318,-122.268723,1,America/Los_Angeles
 37550,50th Ave NE & NE 73rd St,47.681404,-122.274246,21,America/Los_Angeles
 37560,NE 75th St & 50th Ave NE,47.683102,-122.274750,21,America/Los_Angeles
 37570,NE 75th St & 48th Ave NE,47.683102,-122.277130,21,America/Los_Angeles
@@ -2245,31 +2152,15 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 38230,Lake City Way NE & NE 95th St,47.697735,-122.305489,21,America/Los_Angeles
 38235,Lake City Way NE & 20th Ave NE,47.690872,-122.307510,21,America/Los_Angeles
 38240,Ravenna Ave NE & NE 92nd St,47.695282,-122.305283,21,America/Los_Angeles
-38250,Ravenna Ave NE & NE 90th St,47.693745,-122.303474,21,America/Los_Angeles
 38260,Ravenna Ave NE & NE 86th St,47.691254,-122.302170,21,America/Los_Angeles
-38270,Ravenna Ave NE & NE 85th St,47.689754,-122.301582,21,America/Los_Angeles
-38280,25th Ave NE & NE 82nd St,47.688034,-122.301758,21,America/Los_Angeles
-38290,Ravenna Ave NE & NE 80th St,47.686523,-122.302551,21,America/Los_Angeles
 3830,Beacon Ave S & S Hanford St,47.575192,-122.309349,21,America/Los_Angeles
-38300,NE 80th St & 21st Ave NE,47.686714,-122.306145,21,America/Los_Angeles
-38310,NE 80th St & 19th Ave NE,47.686745,-122.307396,21,America/Los_Angeles
-38320,NE 80th St & 17th Ave NE,47.686745,-122.310730,21,America/Los_Angeles
 38330,15th Ave NE & NE 80th St,47.686405,-122.312248,21,America/Los_Angeles
 38350,15th Ave NE & NE 75th St,47.682583,-122.311989,21,America/Los_Angeles
 38370,15th Ave NE & NE 70th St,47.679157,-122.312096,1,America/Los_Angeles
 38390,15th Ave NE & NE 65th St,47.676083,-122.311836,21,America/Los_Angeles
 38410,15th Ave NE & NE 70th St,47.679623,-122.311905,21,America/Los_Angeles
 38430,15th Ave NE & NE 75th St,47.683292,-122.311989,21,America/Los_Angeles
-38450,NE 80th St & 15th Ave NE,47.686607,-122.311752,21,America/Los_Angeles
-38460,NE 80th St & 18th Ave NE,47.686607,-122.308563,21,America/Los_Angeles
-38470,NE 80th St & 20th Ave NE,47.686607,-122.306877,21,America/Los_Angeles
-38480,NE 80th St & 21st Ave NE,47.686409,-122.305214,21,America/Los_Angeles
-38490,NE 80th St & Ravenna Ave NE,47.686188,-122.302849,21,America/Los_Angeles
-38500,Ravenna Ave NE & 25th Ave NE,47.687321,-122.301758,21,America/Los_Angeles
-38510,Ravenna Ave NE & NE 82nd St,47.688347,-122.301567,21,America/Los_Angeles
-38520,Ravenna Ave NE & NE 83rd St,47.689873,-122.301414,21,America/Los_Angeles
 38530,Ravenna Ave NE & NE 86th St,47.691330,-122.301987,21,America/Los_Angeles
-38540,Ravenna Ave NE & NE 90th St,47.693417,-122.302834,1,America/Los_Angeles
 38550,Ravenna Ave NE & NE 92nd St,47.695759,-122.305267,21,America/Los_Angeles
 38560,Lake City Way NE & NE 95th St,47.697800,-122.305229,21,America/Los_Angeles
 38567,Lake City Way NE & NE 85th St,47.690773,-122.307388,1,America/Los_Angeles
@@ -2557,7 +2448,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 41902,Boren Ave & E Yesler Way,47.601959,-122.317970,21,America/Los_Angeles
 41904,Broadway & E Terrace St,47.605450,-122.320648,21,America/Los_Angeles
 41908,Broadway & E Marion St,47.610157,-122.320663,1,America/Los_Angeles
-41920,Terry Ave & Spruce St,47.603146,-122.320892,21,America/Los_Angeles
 41930,9th Ave & Alder St,47.604038,-122.323242,21,America/Los_Angeles
 41940,9th Ave & James St,47.606022,-122.325058,21,America/Los_Angeles
 41950,9th Ave & Columbia St,47.607208,-122.326141,21,America/Los_Angeles
@@ -2575,7 +2465,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 4200,Cedar St & Denny Way,47.618534,-122.347504,21,America/Los_Angeles
 42000,9th Ave & Cherry St,47.606091,-122.325363,21,America/Los_Angeles
 42010,9th Ave & Alder St,47.603474,-122.322968,21,America/Los_Angeles
-42020,Terry Ave & Spruce St,47.603004,-122.321007,21,America/Los_Angeles
 42048,15th Ave S & S Stevens St,47.576675,-122.313477,21,America/Los_Angeles
 42050,15th Ave S & S Hanford St,47.574898,-122.313492,21,America/Los_Angeles
 42070,15th Ave S & S Spokane St,47.571434,-122.313515,21,America/Los_Angeles
@@ -2642,12 +2531,10 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 43714,Martin L King Jr Way & E Marion St,47.609798,-122.296333,21,America/Los_Angeles
 43716,Martin L King Jr Way & E Cherry St,47.607674,-122.296417,21,America/Los_Angeles
 43720,Martin L King Jr Way & E Alder St,47.603992,-122.296890,21,America/Los_Angeles
-43722,Martin L King Jr Way S & E Yesler Way,47.601444,-122.296890,1,America/Los_Angeles
 43724,Martin L King Jr Way S & S Jackson St,47.598984,-122.297523,21,America/Los_Angeles
 43728,Martin L King Jr Way S & S Dearborn St,47.595295,-122.297752,21,America/Los_Angeles
 43765,Martin L King Jr Way S & S Irving St,47.590630,-122.297348,21,America/Los_Angeles
 43770,Martin L King Jr Way S & S Dearborn St,47.595352,-122.297523,21,America/Los_Angeles
-43774,Martin L King Jr Way S & S Jackson St,47.599480,-122.297302,1,America/Los_Angeles
 43776,Martin L King Jr Way & E Yesler Way,47.601944,-122.296661,1,America/Los_Angeles
 43778,Martin L King Jr Way & E Alder St,47.604504,-122.296700,21,America/Los_Angeles
 43782,Martin L King Jr Way & E Cherry St,47.607594,-122.296234,21,America/Los_Angeles
@@ -2853,18 +2740,23 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 46792,Vashon Hwy SW & SW 204th St,47.423260,-122.460587,39,America/Los_Angeles
 468,3rd Ave & Seneca St,47.606502,-122.334938,21,America/Los_Angeles
 46800,Vashon Hwy SW & SW 188th St,47.436657,-122.460396,39,America/Los_Angeles
+46818,SW 256th St & 75th Ave SW,47.374584,-122.427757,39,America/Los_Angeles
 46819,75th Ave SW & SW 256th St,47.374790,-122.427666,39,America/Los_Angeles
 46822,SW 264th St & 99th Ave SW,47.367245,-122.460533,39,America/Los_Angeles
 46830,Vashon Hwy SW & SW 178th St,47.444920,-122.460381,39,America/Los_Angeles
 46840,Vashon Hwy SW & SW Bank Rd,47.447674,-122.460396,39,America/Los_Angeles
 46850,Vashon Hwy SW & SW 171st St,47.452106,-122.460342,39,America/Los_Angeles
 46870,Vashon Hwy SW & SW 158th St,47.462566,-122.460258,39,America/Los_Angeles
+46871,Vashon Hwy SW & Burma Rd SW,47.496380,-122.468193,39,America/Los_Angeles
 46880,Vashon Hwy SW & SW 156th St,47.466110,-122.460190,39,America/Los_Angeles
 46888,Vashon Hwy SW & SW 132nd Pl,47.487320,-122.469467,39,America/Los_Angeles
+46890,Vashon Hwy SW & Burma Rd SW,47.496704,-122.468002,39,America/Los_Angeles
 47080,Vashon Hwy SW & SW 156th St,47.466080,-122.460381,39,America/Los_Angeles
 47110,Vashon Hwy SW & SW 171st St,47.452030,-122.460548,39,America/Los_Angeles
 47120,Vashon Hwy SW & SW 178th St,47.445065,-122.460587,39,America/Los_Angeles
 47165,SW 204th St & Monument Rd SW,47.421886,-122.454712,39,America/Los_Angeles
+47175,SW Ellisport Rd & Dockton Rd SW,47.417477,-122.440613,39,America/Los_Angeles
+47230,Vashon Hwy SW & SW Burton Dr,47.389320,-122.465996,39,America/Los_Angeles
 47235,104th Ave SW & SW Burton Dr,47.389786,-122.467514,39,America/Los_Angeles
 47240,Vashon Hwy SW & SW Bank Rd,47.447460,-122.460602,39,America/Los_Angeles
 47255,SW Tahlequah Rd & Sr 163,47.333027,-122.506729,39,America/Los_Angeles
@@ -3365,7 +3257,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 53072,Tukwila Intl Blvd & Sr 99 Ramp,47.492104,-122.292549,24,America/Los_Angeles
 531,3rd Ave & James St,47.602642,-122.331184,21,America/Los_Angeles
 532,Pioneer Sq Station - Bay A,47.603199,-122.331581,21,America/Los_Angeles
-533,Pioneer Sq Station - Bay B,47.602581,-122.331017,21,America/Los_Angeles
 5330,N 85th St & Greenwood Ave N,47.690525,-122.354935,21,America/Los_Angeles
 53332,Union Ave SE & SE 2nd Pl,47.481670,-122.164268,24,America/Los_Angeles
 53333,Union Ave SE & SE 3rd Pl,47.479229,-122.164276,24,America/Los_Angeles
@@ -3562,6 +3453,7 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 55410,Beacon Ave S & S Avon St,47.501423,-122.268982,21,America/Los_Angeles
 55420,Beacon Ave S & S Leo St,47.502522,-122.269737,8,America/Los_Angeles
 55430,51st Ave S & S Hazel St,47.504845,-122.270050,8,America/Los_Angeles
+55441,51st Ave S & S Creston St,47.506935,-122.270027,26,America/Los_Angeles
 55450,51st Ave S & S Ryan St,47.509815,-122.269966,8,America/Los_Angeles
 55460,51st Ave S & S Gazelle St,47.512463,-122.269958,21,America/Los_Angeles
 55470,51st Ave S & S Bond St,47.514191,-122.269943,21,America/Los_Angeles
@@ -3675,7 +3567,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 56537,Windsor Way NE & Bronson Way NE,47.488972,-122.190414,24,America/Los_Angeles
 56570,NE 7th St & Edmonds Ave NE,47.494541,-122.185234,24,America/Los_Angeles
 56581,NE 7th St & Harrington Ave NE,47.493900,-122.181328,24,America/Los_Angeles
-566,University St Station - Bay B,47.607723,-122.335686,21,America/Los_Angeles
 5660,Greenwood Ave N & N 117th St,47.713760,-122.355621,21,America/Los_Angeles
 56610,Kirkland Ave NE & NE 12th St,47.503715,-122.178513,24,America/Los_Angeles
 56620,Kirkland Ave NE & NE 14th St,47.505158,-122.178513,24,America/Los_Angeles
@@ -4047,7 +3938,7 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 58220,Auburn Way N & S 277th St,47.353291,-122.229004,24,America/Los_Angeles
 58230,Auburn Way N & 85th Ave S,47.350815,-122.226746,24,America/Los_Angeles
 58235,Auburn Way N & 42nd St NE,47.344223,-122.222404,24,America/Los_Angeles
-58240,Auburn Way N & 45th St NE,47.347408,-122.223076,24,America/Los_Angeles
+58240,Auburn Way N & 45th St NE,47.347717,-122.223389,24,America/Los_Angeles
 58255,Auburn Way N & 37th St NE,47.339928,-122.222420,24,America/Los_Angeles
 58257,Auburn Way N & 30th St NE,47.335918,-122.222404,24,America/Los_Angeles
 58260,Auburn Way N & 28th St NE,47.331677,-122.221695,24,America/Los_Angeles
@@ -4304,7 +4195,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 59833,Strander Blvd & Andover Park E,47.455727,-122.249313,24,America/Los_Angeles
 59841,Sr 515 & South Grady Way,47.473038,-122.208771,24,America/Los_Angeles
 59842,South Renton P&R - Bay 1,47.472580,-122.213837,24,America/Los_Angeles
-59850,Sr 167 & S Grady Way,47.471321,-122.217743,24,America/Los_Angeles
 59860,Rainier Ave S & S 7th St,47.474415,-122.215080,24,America/Los_Angeles
 59868,SW 16th St & Lind Ave SW,47.465992,-122.225029,24,America/Los_Angeles
 59870,Rainier Ave S & S 4th Pl,47.477276,-122.215515,24,America/Los_Angeles
@@ -4749,7 +4639,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 62194,SE 256th St & 109th Ave SE,47.372669,-122.197266,24,America/Los_Angeles
 62196,SE 256th St & Kent Kangley Rd,47.372639,-122.200386,24,America/Los_Angeles
 62198,SE 256th St & 101st Ave SE,47.372616,-122.206009,24,America/Los_Angeles
-622,Intl District Station - Bay B,47.597938,-122.327820,21,America/Los_Angeles
 6220,7th Ave & Blanchard St,47.616878,-122.340385,21,America/Los_Angeles
 62202,Canyon Dr SE & S 252nd St,47.375607,-122.212158,24,America/Los_Angeles
 62204,Canyon Dr SE & 94th Ave S,47.378723,-122.215714,24,America/Los_Angeles
@@ -4994,12 +4883,12 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 64341,Bendigo Blvd N & W 2nd St,47.496151,-121.786079,40,America/Los_Angeles
 64358,Douglas Ave SE & Baker Ave SE,47.529877,-121.878258,40,America/Los_Angeles
 64397,Railroad Avenue Southeast Ave SE & SE Northern St,47.532192,-121.827934,40,America/Los_Angeles
-64398,Railroad Avenue Southeast Ave SE & Snoqualmie Pkwy,47.536297,-121.830978,40,America/Los_Angeles
+64398,Railroad Ave SE & Snoqualmie Pkwy,47.536297,-121.830978,40,America/Los_Angeles
 64399,Railroad Ave SE & SE River St,47.526974,-121.824104,40,America/Los_Angeles
 6440,Phinney Ave N & N 46th St,47.662418,-122.353882,21,America/Los_Angeles
 64401,Snoqualmie Pkwy & Better Way Loop SE,47.534492,-121.839302,40,America/Los_Angeles
 64402,Snoqualmie Pkwy & Better Way Loop SE,47.534901,-121.844246,40,America/Los_Angeles
-64403,Snoqualmie Pkwy & Railroad Avenue Southeast Ave SE,47.536777,-121.832123,40,America/Los_Angeles
+64403,Snoqualmie Pkwy & Railroad Ave SE,47.536777,-121.832123,40,America/Los_Angeles
 64405,Snoqualmie Pkwy & Orchard Ave SE,47.532944,-121.850639,40,America/Los_Angeles
 64406,Snoqualmie Pkwy & Orchard Ave SE,47.532818,-121.850433,40,America/Los_Angeles
 64408,Snoqualmie Pkwy & Fisher Ave SE,47.531212,-121.857124,40,America/Los_Angeles
@@ -5024,11 +4913,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 64454,10th Ave NW & Lake Dr,47.550369,-122.049644,19,America/Los_Angeles
 64455,NW Gilman Blvd & 12th Ave NW,47.545639,-122.057617,19,America/Los_Angeles
 64456,Front St N & NE Crescent Dr,47.535629,-122.036514,19,America/Los_Angeles
-64457,Front St S & SE Clark St,47.523849,-122.035820,19,America/Los_Angeles
-64458,Front St S & 800 Block,47.521702,-122.033836,19,America/Los_Angeles
-64459,2nd Ave SE & Front St S,47.519409,-122.029846,19,America/Los_Angeles
-64460,2nd Ave SE & 700 Block,47.523609,-122.030937,19,America/Los_Angeles
-64462,2nd Ave SE & SE Evans St,47.525398,-122.032249,19,America/Los_Angeles
 64464,SE 56th St & 221st Pl SE,47.551899,-122.046417,19,America/Los_Angeles
 64465,SE 56th St & East Lake Sammamish Pkwy SE,47.551884,-122.044052,19,America/Los_Angeles
 64466,SE 56th St & East Lake Sammamish Pkwy SE,47.552021,-122.044327,19,America/Los_Angeles
@@ -5066,6 +4950,7 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 64576,10th Ave NW & Lake Dr,47.550854,-122.049942,19,America/Los_Angeles
 64577,220th Ave SE & SE 51st St,47.554249,-122.047699,19,America/Los_Angeles
 64579,Issaquah P&R - Bay 1,47.542629,-122.062294,19,America/Los_Angeles
+64581,Newport Way NW & NW Newport Way,47.542202,-122.052933,19,America/Los_Angeles
 64582,NW Gilman Blvd & 7th Ave NW,47.543144,-122.047211,19,America/Los_Angeles
 64583,NW Sammamish Rd & 17th Ave NW,47.552051,-122.061058,19,America/Los_Angeles
 64584,NW Sammamish Rd & 15th Pl NW,47.551949,-122.067192,19,America/Los_Angeles
@@ -5704,7 +5589,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 70596,NE 8th St & 100th Ave NE,47.617371,-122.207268,19,America/Los_Angeles
 70597,NE 100th St & 116th Ave NE,47.689556,-122.187119,19,America/Los_Angeles
 70600,Bellevue Way SE & 108th Ave SE,47.593960,-122.195877,19,America/Los_Angeles
-70607,NE 8th St & Bellevue Way NE,47.617493,-122.202515,19,America/Los_Angeles
 70608,NE 8th St & 102nd Ave NE,47.617500,-122.204826,19,America/Los_Angeles
 70610,100th Ave NE & NE 10th St,47.619515,-122.206970,19,America/Los_Angeles
 70619,NE 8th St & 100th Ave NE,47.617504,-122.207527,19,America/Los_Angeles
@@ -5847,9 +5731,9 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 71335,Sr 520 & NE 40th St,47.645328,-122.135330,19,America/Los_Angeles
 71336,State Route 520 & NE 40th St,47.644669,-122.133759,19,America/Los_Angeles
 71341,Sr 520 & NE 51st St,47.652592,-122.138245,19,America/Los_Angeles
-71344,Montlake Freeway Station,47.644600,-122.302811,1,America/Los_Angeles
+71344,Montlake Blvd E & Montlake Freeway Station,47.644600,-122.302811,1,America/Los_Angeles
 71348,Sr 520 & Evergreen Point Rd,47.636864,-122.236870,19,America/Los_Angeles
-71350,State Route 520 & Montlake Freeway Station,47.644161,-122.303802,21,America/Los_Angeles
+71350,Montlake Blvd E & Montlake Freeway Station,47.644161,-122.303802,21,America/Los_Angeles
 71353,Sr 520 & NE 51st St,47.654922,-122.136627,19,America/Los_Angeles
 71355,Sr 520 & Evergreen Point Rd,47.637177,-122.237305,19,America/Los_Angeles
 71356,Clyde Hill/Yarrow Pt & Sr-520 - 92nd Avenue,47.639923,-122.219467,19,America/Los_Angeles
@@ -6115,7 +5999,8 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 73560,166th Ave NE & NE 104th St,47.692478,-122.118477,19,America/Los_Angeles
 73570,166th Ave NE & NE 100th St,47.689571,-122.118065,19,America/Los_Angeles
 7360,Stone Way N & N 43rd St,47.658962,-122.342369,21,America/Los_Angeles
-73620,166th Ave NE & NE 87th St,47.680176,-122.119270,19,America/Los_Angeles
+73600,166th Ave NE & NE 91st St,47.682903,-122.119240,19,America/Los_Angeles
+73620,166th Ave NE & NE 87th St,47.680164,-122.119255,19,America/Los_Angeles
 73632,NE 85th St & 164th Ave NE,47.678562,-122.122833,19,America/Los_Angeles
 73635,164th Ave NE & NE 85th St,47.678646,-122.121498,19,America/Los_Angeles
 73637,164th Ave NE & NE 80th St,47.674492,-122.121506,19,America/Los_Angeles
@@ -6127,6 +6012,7 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 73720,NE 80th St & 124th Ave NE,47.675381,-122.174210,19,America/Los_Angeles
 73722,NE 80th St & 122nd Ave NE,47.675427,-122.176529,19,America/Los_Angeles
 73724,NE 80th St & 120th Ave NE,47.675522,-122.181084,19,America/Los_Angeles
+73730,124th Ave NE & NE 80th Way,47.677712,-122.176056,19,America/Los_Angeles
 73744,116th Ave NE & NE 75th Pl,47.674732,-122.184509,19,America/Los_Angeles
 73745,116th Ave NE & NE 75th St,47.671967,-122.185738,19,America/Los_Angeles
 73757,NE 85th St & 161st Ave NE,47.678459,-122.126465,19,America/Los_Angeles
@@ -6159,9 +6045,8 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 73952,NE 85th St & 126th Ave NE,47.679424,-122.173462,19,America/Los_Angeles
 73953,NE 85th St & 124th Ave NE,47.679371,-122.177185,19,America/Los_Angeles
 73960,166th Ave NE & NE 83rd St,47.677155,-122.119080,19,America/Los_Angeles
-73970,166th Ave NE & NE 87th St,47.680099,-122.119064,19,America/Los_Angeles
+73970,166th Ave NE & NE 87th St,47.680099,-122.119049,19,America/Los_Angeles
 73990,166th Ave NE & NE 91st St,47.683262,-122.119034,19,America/Los_Angeles
-7400,Bridge Way N & Whitman Ave N,47.653271,-122.345139,21,America/Los_Angeles
 74000,166th Ave NE & NE 95th St,47.685928,-122.118500,19,America/Los_Angeles
 74001,Willows Rd NE & NE 116th St,47.704067,-122.153076,19,America/Los_Angeles
 74002,NE 124th St & 134th Ct NE,47.711395,-122.163094,19,America/Los_Angeles
@@ -6264,6 +6149,7 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 74332,3rd St & 15th Ave,47.687359,-122.204628,19,America/Los_Angeles
 74334,124th Ave NE & NE 85th St,47.678772,-122.176094,19,America/Los_Angeles
 74340,3rd St & 13th Ave,47.685310,-122.204559,19,America/Los_Angeles
+74342,124th Ave NE & NE 85th St,47.679794,-122.176125,19,America/Los_Angeles
 74344,124th Ave NE & NE 90th St,47.682819,-122.176003,19,America/Los_Angeles
 74346,124th Ave NE & NE 97th St,47.687897,-122.175728,19,America/Los_Angeles
 74347,124th Ave NE & NE 100th St,47.689960,-122.175629,19,America/Los_Angeles
@@ -6344,7 +6230,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 74733,Totem Lake Blvd & 120th Ave NE,47.709919,-122.177559,19,America/Los_Angeles
 74734,NE 128th St & I-405,47.714882,-122.185249,19,America/Los_Angeles
 74735,NE 128th St & 116th Ave NE,47.714882,-122.185806,19,America/Los_Angeles
-74736,Totem Lake Blvd & NE 130th Pl,47.716907,-122.185791,19,America/Los_Angeles
 74737,NE 132nd St & 120th Ave NE,47.718372,-122.180466,19,America/Los_Angeles
 74754,NE 132nd St & 129th Pl NE,47.718544,-122.167610,19,America/Los_Angeles
 74756,NE 132nd St & 127th Dr NE,47.718517,-122.170288,19,America/Los_Angeles
@@ -6412,14 +6297,10 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 75251,Boeing Perimeter Rd & Gate E-80,47.931049,-122.270912,17,America/Los_Angeles
 75252,Boeing Access Rd & Lot N-8,47.931667,-122.265678,17,America/Los_Angeles
 75253,Boeing Access Rd & Gate E-77,47.927555,-122.264862,17,America/Los_Angeles
-75255,5th Ave NE & NE 133rd St,47.726082,-122.323654,21,America/Los_Angeles
 75256,Airport Rd & 100th St SW,47.907448,-122.270943,17,America/Los_Angeles
 75257,94th St SW & 29th Ave W,47.913448,-122.272835,17,America/Los_Angeles
-75260,5th Ave NE & NE 130th St,47.722572,-122.323669,21,America/Los_Angeles
 7530,Stone Way N & N Allen Pl,47.660576,-122.342079,21,America/Los_Angeles
-75303,5th Ave NE & NE 130th St,47.723351,-122.323463,21,America/Los_Angeles
 75304,NE 135th St & 1st Ave NE,47.726868,-122.328461,21,America/Los_Angeles
-75305,5th Ave NE & Northeast 133rd St Park & Ride,47.726009,-122.323448,21,America/Los_Angeles
 75307,5th Ave NE & NE 145th St,47.734440,-122.323479,20,America/Los_Angeles
 75310,NE 145th St & 5th Ave NE,47.734123,-122.324081,20,America/Los_Angeles
 75320,NE 145th St & 1st Ave NE,47.734161,-122.328804,20,America/Los_Angeles
@@ -6580,7 +6461,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 76360,NE Bothell Way & 80th Ave NE,47.756004,-122.234673,19,America/Los_Angeles
 76370,NE Bothell Way & 77th Ct NE,47.756302,-122.236435,19,America/Los_Angeles
 76372,NE Bothell Way & Kenmore Park And Ride,47.757134,-122.241470,19,America/Los_Angeles
-76374,Kenmore P&R & NE Bothell Way,47.758408,-122.241295,19,America/Los_Angeles
 76375,73rd Ave NE & NE 181st St,47.758568,-122.243591,19,America/Los_Angeles
 76390,NE Bothell Way & 68th Ave NE,47.758431,-122.249573,19,America/Los_Angeles
 76420,NE Bothell Way & 61st Ave NE,47.758373,-122.263237,19,America/Los_Angeles
@@ -6924,13 +6804,12 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 80668,Lind Ave SW & SW 16th St,47.465950,-122.223267,24,America/Los_Angeles
 80669,Lind Ave SW & SW 34th St,47.449001,-122.223701,24,America/Los_Angeles
 80680,Interurban Ave S & Fort Dent Way,47.466011,-122.249420,24,America/Los_Angeles
-80692,Interurban Ave S & S 147th St,47.471355,-122.254311,24,America/Los_Angeles
+80692,Interurban Ave S & S 147th St,47.471600,-122.254463,24,America/Los_Angeles
 8070,Rainier Ave S & 52nd Ave S,47.519917,-122.267807,21,America/Los_Angeles
 80700,Interurban Ave S & 58th Ave S,47.476253,-122.258781,24,America/Los_Angeles
 80710,52nd Ave S P&R - Bay 1,47.482182,-122.267822,24,America/Los_Angeles
 80720,52nd Ave S P&R - Bay 2,47.482071,-122.267944,24,America/Los_Angeles
 80730,Interurban Ave S & 58th Ave S,47.476490,-122.259491,24,America/Los_Angeles
-80740,Interurban Ave S & S 149th St,47.469536,-122.253426,24,America/Los_Angeles
 80742,Interurban Ave S & S 147th St,47.471363,-122.254547,24,America/Los_Angeles
 80761,Lind Ave SW & SW Grady Way,47.469605,-122.223457,24,America/Los_Angeles
 80762,Lind Ave SW & SW 16th St,47.465794,-122.223473,24,America/Los_Angeles
@@ -7204,12 +7083,9 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 82107,Ballinger Way NE & NE 175th St,47.754425,-122.277756,19,America/Los_Angeles
 82110,NE 145th St & Lake City Way NE,47.733829,-122.293449,20,America/Los_Angeles
 82120,NE 145th St & 30th Ave NE,47.733856,-122.296936,20,America/Los_Angeles
-82125,NE 75th St & 24th Ave NE,47.683113,-122.301758,21,America/Los_Angeles
-82127,NE 75th St & 20th Ave NE,47.683113,-122.306442,21,America/Los_Angeles
 82130,NE 145th St & 27th Ave NE,47.733883,-122.299599,20,America/Los_Angeles
 82133,25th Ave NE & NE 147th St,47.735245,-122.301865,18,America/Los_Angeles
 82135,NE 75th St & 18th Ave NE,47.683113,-122.308884,21,America/Los_Angeles
-82137,NE 75th St & 15th Ave NE,47.683113,-122.312546,1,America/Los_Angeles
 82140,NE 145th St & 25th Ave NE,47.733910,-122.302383,20,America/Los_Angeles
 82145,Roosevelt Way NE & NE 80th St,47.686935,-122.317451,21,America/Los_Angeles
 82150,NE 145th St & 23rd Pl NE,47.733933,-122.305237,20,America/Los_Angeles
@@ -7237,13 +7113,10 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 82240,NE 145th St & 23rd Pl NE,47.733791,-122.304405,20,America/Los_Angeles
 82247,Roosevelt Way NE & NE 85th St,47.690132,-122.317711,21,America/Los_Angeles
 82250,NE 145th St & 25th Ave NE,47.733757,-122.301453,20,America/Los_Angeles
-82257,NE 75th St & 11th Ave NE,47.682991,-122.316582,21,America/Los_Angeles
 82260,NE 145th St & 27th Ave NE,47.733742,-122.298927,20,America/Los_Angeles
-82265,NE 75th St & 15th Ave NE,47.682980,-122.312096,21,America/Los_Angeles
 82267,NE 75th St & 17th Ave NE,47.682980,-122.309914,21,America/Los_Angeles
 82270,NE 145th St & 30th Ave NE,47.733711,-122.295761,20,America/Los_Angeles
 82275,NE 75th St & 20th Ave NE,47.682980,-122.306046,21,America/Los_Angeles
-82277,NE 75th St & 23rd Ave NE,47.682980,-122.302673,21,America/Los_Angeles
 82280,Ballinger Way NE & NE 175th St,47.755066,-122.278381,19,America/Los_Angeles
 82300,Ballinger Way NE & NE 184th St,47.759434,-122.283096,19,America/Los_Angeles
 82302,McCollum P&R & 128 ST SE,47.879349,-122.220795,17,America/Los_Angeles
@@ -7289,9 +7162,7 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 82716,I-405 & NE 70th Pl,47.668446,-122.187477,19,America/Los_Angeles
 82718,I-405 & SE 8th St,47.603249,-122.184822,19,America/Los_Angeles
 82720,Main St & 106th Ave SE,47.610062,-122.199005,19,America/Los_Angeles
-82730,Main St & 108th Ave SE,47.610035,-122.195900,19,America/Los_Angeles
-82735,Main St & 110th Pl SE,47.610012,-122.192764,19,America/Los_Angeles
-82740,112th Ave SE & Main St,47.609611,-122.190918,19,America/Los_Angeles
+82730,Main St & 108th Ave SE,47.610035,-122.195450,19,America/Los_Angeles
 82741,112th Ave NE & Main St,47.610386,-122.190727,19,America/Los_Angeles
 82750,112th Ave SE & SE 1st Pl,47.607567,-122.190887,19,America/Los_Angeles
 82760,112th Ave SE & SE 4th St,47.605335,-122.190865,19,America/Los_Angeles
@@ -7649,7 +7520,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 9132,University Way NE & NE 50th St,47.664135,-122.313187,21,America/Los_Angeles
 9133,University Way NE & NE 45th St,47.662273,-122.313217,21,America/Los_Angeles
 9134,University Way NE & NE 43rd St,47.659847,-122.313271,21,America/Los_Angeles
-9135,University Way NE & NE 52nd St,47.666023,-122.313164,1,America/Los_Angeles
 9138,NE Campus Pkwy & 12th Ave NE - Bay 4,47.656300,-122.315460,21,America/Los_Angeles
 9140,University Bridge & NE 40th St,47.655766,-122.318520,21,America/Los_Angeles
 9141,Eastlake Ave E & Harvard Ave E,47.650600,-122.322151,21,America/Los_Angeles
@@ -7672,11 +7542,7 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 9271,Eastlake Ave E & Aloha St,47.627697,-122.329338,21,America/Los_Angeles
 9300,Eastlake Ave E & Mercer St,47.624004,-122.329269,21,America/Los_Angeles
 9320,Eastlake Ave E & Stewart St,47.620071,-122.329239,21,America/Los_Angeles
-9370,Eastlake Ave E & Stewart St,47.619591,-122.329033,21,America/Los_Angeles
-9380,Eastlake Ave E & Harrison St,47.621830,-122.329048,21,America/Los_Angeles
 940,Stewart St & 9th Ave,47.615704,-122.334457,21,America/Los_Angeles
-9400,Eastlake Ave E & Mercer St,47.624195,-122.329063,21,America/Los_Angeles
-9420,Eastlake Ave E & Aloha St,47.627033,-122.329117,21,America/Los_Angeles
 9460,Eastlake Ave E & E Garfield St,47.634110,-122.325386,21,America/Los_Angeles
 9480,Eastlake Ave E & E Howe St,47.636162,-122.325577,21,America/Los_Angeles
 950,Stewart St & 7th Ave,47.614361,-122.336205,21,America/Los_Angeles
@@ -7685,6 +7551,7 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 9530,Eastlake Ave E & E Hamlin St,47.645954,-122.325516,21,America/Los_Angeles
 9550,Eastlake Ave E & E Allison St,47.648945,-122.323204,21,America/Los_Angeles
 9560,Eastlake Ave E & Harvard Ave E,47.650318,-122.322136,1,America/Los_Angeles
+9561,NE Pacific St & University Way NE,47.653393,-122.313057,1,America/Los_Angeles
 9575,NE Campus Pkwy & University Way NE - Bay 2,47.655918,-122.313354,21,America/Los_Angeles
 9580,NE Campus Pkwy & Brooklyn Ave NE - Bay 1,47.655922,-122.313980,21,America/Los_Angeles
 9581,University Way NE & NE 41st St,47.657387,-122.313133,21,America/Los_Angeles
@@ -7697,7 +7564,6 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 96059,25th Ave NE & NE 147th St,47.735290,-122.302071,18,America/Los_Angeles
 9610,Roosevelt Way NE & NE 42nd St,47.658455,-122.317879,21,America/Los_Angeles
 9612,NE 42nd St & 8th Ave NE,47.657452,-122.319389,21,America/Los_Angeles
-9620,Eastlake Ave NE & NE 41st St,47.657074,-122.316849,21,America/Los_Angeles
 9630,11th Ave NE & NE 42nd St,47.658573,-122.316551,21,America/Los_Angeles
 9650,11th Ave NE & NE 45th St,47.661781,-122.316467,1,America/Los_Angeles
 9660,11th Ave NE & NE 47th St,47.663368,-122.316254,21,America/Los_Angeles
@@ -7832,10 +7698,8 @@ stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_timezone
 9976,Sand Point Way NE & NE 50th St,47.664711,-122.283249,21,America/Los_Angeles
 99760,Brickyard Rd NE & NE 170th Pl,47.751667,-122.179375,19,America/Los_Angeles
 9978,Sand Point Way NE & 40th Ave NE,47.662739,-122.285202,1,America/Los_Angeles
-99790,NE 70th St & Sand Point Way NE,47.679302,-122.263741,1,America/Los_Angeles
 9980,NE 55th St & Princeton Ave NE,47.669342,-122.276146,21,America/Los_Angeles
 99803,Overlake TC - Bay 6,47.644112,-122.132629,19,America/Los_Angeles
-99820,S Henderson St & Rainier Ave S,47.523369,-122.268890,21,America/Los_Angeles
 9990,NE 55th St & 45th Ave NE,47.669025,-122.279846,21,America/Los_Angeles
 99900,Tukwila Int'l Blvd Station - Airport,47.464272,-122.288399,79,America/Los_Angeles
 99903,Airport Station - To Downtown,47.444939,-122.296715,80,America/Los_Angeles

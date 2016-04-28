@@ -1,7 +1,5 @@
-EXPECTS_Databases_Routes/
-EXPECTS_Databases_Whole/
-INSTANCES_Databases_Routes/
-INSTANCES_Databases_Whole/
+EXPECTS_Databases/
+INSTANCES_Databases/
 Position_Data_Records/
 Trip_Update_Data_Records/
 RawDataZipFiles/
